@@ -56,5 +56,24 @@ python NST/nst_train.py eval --content-image </path/to/content/image> --model </
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
 
 
+## Some examples
 
+### Style image
+
+![](images/style-images/mosaic.jpg)
+
+I used only one style images due to the lack of copuutation resources.
+
+
+### Centent images.
+
+
+![](images/test.jpg)
+
+I am a dog lover so can't help it. Sorry!! 
+
+
+### Final stylized image
+
+![](images/test1.jpg)
 
