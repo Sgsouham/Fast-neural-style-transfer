@@ -66,7 +66,7 @@ Also a good link to understand the concept of FNST is [this](https://www.youtube
 
 ![](images/style-images/mosaic.jpg)
 
-I used only one style images due to the lack of copuutation resources.
+I used only one style image due to the lack of copuutation resources.
 
 
 ### Centent images.
