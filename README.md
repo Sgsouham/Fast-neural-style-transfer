@@ -55,6 +55,10 @@ python NST/nst_train.py eval --content-image </path/to/content/image> --model </
 * `--content-scale`: factor for scaling down the content image if memory is an issue (eg: value of 2 will halve the height and width of content-image)
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
 
+To understand about the training process, you need to go through the paper once.
+
+Also a good link to understand the concept of FNST is [this](https://www.youtube.com/watch?v=VQEMptfWpLk&t=1s). Do check this out.
+
 
 ## Some examples
 
@@ -76,4 +80,10 @@ I am a dog lover so can't help it. Sorry!!
 ### Final stylized image
 
 ![](images/test1.jpg)
+
+Now that's a good boy!! 
+
+#### The part which failed :( 
+
+I tried the ffmpeg to split a mp4 file into frames and applying the trained model on it and stitching it back together but video looked completely washed off. :( Will be updating this in the future if I get a solution out of it.
 
