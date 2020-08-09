@@ -8,4 +8,8 @@ So I went forward with the perceptual loss from the [Fast Neural Style Transfer]
  - The NST in real time.
  - Super resolution for crisp results.
  
+##The implementation idea for those who are new to paper implementations (like me!)
+
+So first after reading the paper, I tried understanding the architecture of the system.
+
 
