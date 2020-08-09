@@ -12,4 +12,4 @@ So I went forward with the perceptual loss from the [Fast Neural Style Transfer]
 
 So first after reading the paper, I tried understanding the architecture of the system.
 
-
+![Architecture](images/model.png)
